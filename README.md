@@ -1,5 +1,5 @@
 # Application of python
-程式應用
+程式應用  ![dd](https://static.wikia.nocookie.net/metalgear/images/e/e7/Diamond_Dogs.svg/revision/latest?cb=20150121151638)
 ## 00 introduction
 ## 01 python overview
 -EX01-01 加法器  
