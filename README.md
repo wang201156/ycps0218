@@ -1,5 +1,5 @@
 # Application of python
-程式應用  ![dd](https://static.wikia.nocookie.net/fictionalgroups/images/9/99/Diamond_Dogs.png/revision/latest/scale-to-width-down/300?cb=20160204011810
+程式應用  ![dd](https://static.wikia.nocookie.net/fictionalgroups/images/9/99/Diamond_Dogs.png/revision/latest/scale-to-width-down/300?cb=20160204011810)
 ## 00 introduction
 ## 01 python overview
 -EX01-01 加法器  
