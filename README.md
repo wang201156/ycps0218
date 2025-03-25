@@ -19,3 +19,8 @@
 -EX02-05 PTT Gossiping   
 -EX02-06 開眼電影  
 -EX02-07 KDay  
+## 03 Data Analysis
+-EX03-01 公司薪資概況Ⅰ  
+-EX03-02 公司薪資概況Ⅱ  
+-EX03-03 空氣品質指標(AQI)  
+-EX03-04 薪情平台  
