@@ -27,3 +27,10 @@
 -EX03-05 台灣股票市場個股每日成交資訊  
 -EX03-06 出生人口數  
 -EX03-07 Tips  
+
+## 05 Web API  
+-EX05-01 Echo Bot  
+-EX05-02 Ask Gemini  
+-EX05-03 Reply Multi-type Messages  
+-EX05-04 Reply Template Messages  
+-EX05-05 Rich Menu  
